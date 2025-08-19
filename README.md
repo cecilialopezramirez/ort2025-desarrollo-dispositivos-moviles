@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Obligatorio de Taller de Desarrollo para Dispositivos Móviles
 Este proyecto fue realizado con fines académicos para un taller en la **Universidad ORT Uruguay**.  
 
@@ -82,4 +81,4 @@ Error handling must be implemented on the client side.
 =======
 # ORT
 This repository contains the academic assignments I completed at Universidad ORT during my degree
->>>>>>> d8ecdf8f7d5cfee4278235834892a951d81ef976
+
