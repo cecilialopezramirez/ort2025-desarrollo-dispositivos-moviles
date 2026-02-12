@@ -78,7 +78,6 @@ Error handling must be implemented on the client side.
 - **REST API** (provided by teaching staff)
 - **localStorage** for session persistence
 
-=======
-# ORT
+
 This repository contains the academic assignments I completed at Universidad ORT during my degree
 
