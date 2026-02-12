@@ -79,5 +79,4 @@ Error handling must be implemented on the client side.
 - **localStorage** for session persistence
 
 
-This repository contains the academic assignments I completed at Universidad ORT during my degree
 
